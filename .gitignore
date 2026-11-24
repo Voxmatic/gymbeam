@@ -1,0 +1,15 @@
+node_modules/
+.pg16/
+.pgdata/
+.env
+.env.local
+*.log
+__pycache__/
+*.pyc
+web/.next/
+web/out/
+member_app/build/
+member_app/.dart_tool/
+ai_trainer/build/
+ai_trainer/.dart_tool/
+.DS_Store

@@ -1,0 +1,1 @@
+{"dependencies": {"@embedded-postgres/windows-x64": "16.16.0-beta.19"}, "name": "gymos-scripts", "private": true, "type": "module"}
